@@ -1,0 +1,24 @@
+---
+court: "United States District Court for the Middle District of North Carolina"
+decided: "1932-06-29"
+citations: ["2 F. Supp. 529"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FIRST CAROLINAS JOINT STOCK LAND BANK OF COLUMBIA, S. C., v. PAGE et al."]
+source_url: "https://static.case.law/f-supp/2/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4121366
+cites_cases: ["2 Cranch, 445", "22 Stat. 162", "24 Stat. 552", "241 U. S. 295", "256 U. S. 350", "267 U. S. 92", "277 U. S. 213", "42 S. Ct. 35", "48 S. Ct. 449", "59 F.(2d) 350"]
+---
+
+# First Carolinas Joint Stock Land Bank of Columbia v. Page
+
+## Majority (HAYES, District Judge.)
+
+HAYES, District Judge.
+The plaintiff, First Carolinas Joint Stock Land Bank, a corporation, created by an act of Congress, brought an action in the state court against Salvation Army, a corporation, created under the laws of Georgia. The cause was removed to this court on the ground of diverso citizenship. The plaintiff moved to remand on the ground that it was and is a corporation created by Congress and is a citizen of the United States but not a citizen of any one state.
+The petition concedes that a corporation created by Congress without designating its location is a citizen of the United States but not of any particular state. Bankers’ Trust Company v. Texas & P. R. R. Co., 241 U. S. 295, 36 S. Ct. 569, 60 L. Ed. 1010. It is insisted here, however, that plaintiff’s charter fixes its office at Columbia, S. C., and limits its territory to the states of South Carolina and North Carolina, thus localizing and making it a citizen of South Carolina. Ap parently the precise point has not been determined by the Supreme Court or a Circuit Court. The petitioner insists that the charter of plaintiff 'is analogous to charters of national banks. Prior to 1882 there was no statute making such hanks citizens of the states where located. In 1882 (22 Stat. 162) jurisdiction of national hanks was made the same as other banks, and in 1887 (24 Stat. 552) they were made citizens of the state where located. In 1923, intermediate credit banks were made citizens of the state where located. 12 USCA § 1023. But there is no such provision as to federal land banks or joint-stock land hanks. Tho absence of such legislation in respect to the latter is significant. We cannot assume that Congress intended to make these hanks citizens of states by implication, when in similar legislation it had expressly made such provision. Federal Intermediate Credit Bank v. Mitchell, 277 U. S. 213, 217, 48 S. Ct. 449, 72 L. Ed. 854.
+If, then, a joint-stock land bank is to he deemed a citizen of the state where its principal place of business is located, it must be done by judicial determination. No court has so held. In American Bank & Trust Co. v. Federal Reserve Bank, 256 U. S. 350, 357, 41 S. Ct. 499, 500, 65 L. Ed. 983, wherein the charter created the Federal Land Bank of Atlanta, in discussing whether Judicial Code, § 24 (16), 28 USCA § 41(16), making national banking associations citizens of the state in which located, Mr. Justice Holmes says: “But wo agree with the Court below that the reasons for localizing ordinary commercial banks do not apply to tho Federal Reserve Banks created after the Judicial Code was enacted and that the phrase ‘national banking associations’ does not reach forward and include them. That phrase is used to describo tho ordinary commercial banks whereas the others are systematically called ‘Federal Re-servo Banks.’ We see no sufficient ground for supposing that Congress meant to open the questions that the other construction would raise.”
+Joint-stock land hanks are analogous to the federal reserve banks more than to the ordinary commercial banks. The joint-stock bank is not a citizen of South Carolina, but a citizen of the United States. Judge Glenn, in First Carolinas Joint Stock Land Bank v. New York Title & Mortgage Company (D. C.) 59 F.(2d) 350, held that the plaintiff is not a citizen of South Carolina. The case has been improperly removed to this court. The eases in regard to commercial national banks prior to 1882 are not decisive of the point involved here.
+The burden is on removing--petitioner to show requisite diversity of citizenship, the sole ground of removal. Wilson v. Republic Iron & Steel Company, 267 U. S. 92, 42 S. Ct. 35, 66 L. Ed. 144. The controversy must be between citizens of different states to confer jurisdiction in this court. 28 USCA 41 (1) (b) and 2$ USCA § 71. The requirement is not met by showing one party a citizen of a state. It may work a hardship on one who is not a citizen of any state, but the remedy is within the power of Congress to provide. Hepburn v. Ellzey, 2 Cranch, 445, 2 L. Ed. 332.
