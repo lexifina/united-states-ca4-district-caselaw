@@ -1,0 +1,23 @@
+---
+court: "United States District Court for the Eastern District of South Carolina"
+decided: "1935-01-21"
+citations: ["9 F. Supp. 415"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["McCLAM v. NEW YORK LIFE INS. CO."]
+source_url: "https://static.case.law/f-supp/9/cases/0415-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4142144
+cites_cases: ["13 F.(2d) 765", "78 F. 576"]
+---
+
+# McClam v. New York Life Ins.
+
+## Majority (MYERS, District Judge.)
+
+MYERS, District Judge.
+This case was tried with a jury at the December term of this court at Florence, S. G, and resulted in a verdict of $20,000, with interest, for plaintiff administratrix. Motion for a new trial was duly noted and has been heard. The exercise of the court’s discretion on a motion of this kind not being subject to review, I will refrain from discussing the testimony in detail. In Felton v. Spiro (C. C. A.) 78 F. 576, 581, February 2, 1897, the late Mr. Justice Taft, then Circuit Judge, says: “A motion for a new trial is, of course, addressed to the discretion of the court, and, if the court exercises its discretion, and either grants or denies the motion, its action is not the subject of review. This is so well settled that it is unnecessary to cite authorities upon the point. But the motion for new trial is a remedy accorded to a party litigant for the correction by the trial court of injustice done by the verdict of a jury. It is one of the most important rights which a party to a jury trial has. It is a right to invoke the discretion of the court to decide whether the injustice of the verdict is such that he ought to have an opportunity to take the case before another jury. If, now, in exercising this discretion, it is the duty of the court to consider whether the verdict was against the great weight of the evidence, and he refuses to consider the evidence in this light on the ground that he has no power or discretion to do so, it is clear to us that he is depriving the party making the motion of a substantial right, and that this may be corrected by writ of error.”
+To what extent the opinion in Felton v. Spiro is modified by Judge Waddill’s Circuit Court of Appeals opinion in the case of Tabor v. Mutual Life Insurance Company of New York, 13 F.(2d) 765, June 8, 1926, is a matter for serious consideration. Following Tabor v. Mutual Life Insurance Company, I reluctantly submitted the case to the jury. The issue as submitted was somewhat narrower than the issue in the Tabor Case. The insured died from a gunshot wound concededly inflicted by his own hand (that is, without other human intervention), either accidentally or with suicidal intent. If the jury be better qualified -to pass upon this question than the court, as is stated in the Tabor Case, of what weight is the court’s opinion in passing upon motion for a new trial ? The jury was an average jury from all parts of the district, and may come within the definition “fair and impartial” as used by Judge Waddill. The conscience of the court was nevertheless shocked by the verdict; which, though rendered within a comparatively short time, was delayed sufficiently to indicate that there was a difference of opinion among the jurors. While the case went to the jury on the presumption against suicide under the Tabor Case, there was nothing more than the presumption to support plaintiff’s allegation of accidental death. In the absence of any proof of accident other than surmise, such proof as definitely tended to show self-destruction or suicide was .of - much more weight. In my opinion, in a case involving a question of this nature, submission should be on the issue: Was the death of the insured the result of accident, or did the deceased come to his death by intentionally self-inflicted wound?- The court is not convinced- that the jury that rendered this verdict would have agreed on that issue, notwithstanding the clear instructions of the court that, if they found for plaintiff the full amount sued for under the policy, it must be based on the finding of accidental death.
+The court regrets that this order is not subject to review. The Tabor opinion should be either modified or carried out to its logical conclusion. The trial judge should know whether the principle extends to relief of -his duty to grant a new trial, otherwise indicated, where the verdict of the jury is based upon its view of the question of suicide or accident.
+For the reasons stated, it is ordered that the verdict of the jury be set aside and a new trial granted.
