@@ -1,0 +1,28 @@
+---
+court: "United States District Court for the District of Maryland"
+docket: "2277"
+decided: "1935-01-09"
+citations: ["9 F. Supp. 353"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TRAVELERS’ INS. CO. OF HARTFORD, CONN., v. RABINOWITZ."]
+source_url: "https://static.case.law/f-supp/9/cases/0353-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4142930
+cites_cases: ["1 Wall. 337", "116 U. S. 550", "170 U. S. 468", "226 U. S. 551", "27 F.(2d) 753", "292 U. S. 263", "38 F. (2d) 175", "5 F. Supp. 586", "50 F.(2d) 512", "55 S. Ct. 1", "55 S. Ct. 95", "62 F.(2d) 711", "69 F.(2d) 600", "70 F.(2d) 863", "71 F.(2d) 872"]
+---
+
+# Travelers' Ins. v. Rabinowitz
+
+## Majority (CHESNUT, District Judge.)
+
+CHESNUT, District Judge.
+In tins case there is a motion to dismiss the bill of complaint in equity on the ground of lack of federal jurisdiction. The plaintiff’s bill seeks the cancellation of an ordinary life insurance policy because, as alleged, it was procured by material misrepresentations. The policy contains a two year incontestable clause. The face amount of the policy is exactly $3,000; and the point is made that the amount in controversy is therefore less than the jurisdictional amount required by the statute in cases of diverse citizenship, as here involved. The language of the statute (USCA title 28, § 41 (1) limits jurisdiction in such cases to those “where the matter in controversy exceeds, exclusive of interest and costs, the sum or value of $3,000.” (Italics supplied.)
+The bill of complaint alleges in general language that the amount in controversy exceeds $3,000, exclusive of interest and costs; but this is here only a conclusion of law and is necessarily subject to be overridden by the facts of the ease if it appears from the whole of the bill and the policy filed as an exhibit that the contrary conclusion must be reached. Lee v. Watson, 1 Wall. 337, 17 L. Ed. 557; Vance v. W. A. Vandercook Co. (No. 2), 170 U. S. 468, 472, 18 S. Ct. 645, 42 L. Ed. 1111; Barry v. Edmunds, 116 U. S. 550, 560, 6 S. Ct. 501, 29 L. Ed. 729.
+A copy of the policy of insurance filed with the bill shows that the amount of insurance applied for by the defendant was $3,-000; and the policy issued was for $3,000. It is ordinary life insurance without provision for disability benefits or double indemnity in certain eases of accidental death. It is therefore clear that the jurisdiction does not exist unless it is created by the following consideration relied on by the plaintiff :
+The policy is dated April 25, 1934, and the initial premium was $120.87; but the insurer guaranteed that subsequent annual premiums would be reduced by $32.64; and the policy further provided that “If the insured shall so elect in writing” and pay the amount of the initial premium in subsequent years, then the amount of insurance would be increased in the second year of the policy to $3,072, and $3,241 in the third year, with further increase in later years. From this it is argued that the sum or amount in controversy exceeds $3,0001 Thus it is said that the insurer’s obligation is to grant the greater amount of insurance, if the insured elects to pay the higher premiums. While the contention is perhaps plausible, in my opinion it is not sound when viewed in the light of the policy of the statute derived from its history. This was recently reviewed by the Supreme Court in Healy v. Ratta, 292 U. S. 263, 270, 54 S. Ct. 700, 78 L. Ed. 1248, where it was concluded that strict construction of the statute was required by due regard for the jurisdiction of the state courts.
+It cannot be gainsaid that at the present time the sum in controversy is not more than $3,000. If the liability of the insurer under the policy is ever to exceed' that amount in the future, it will arrive only oh the exercise of an option by the insured — that is, it is subject to a condition precedent which,may never occur.
+In the recent case of Brotherhood of Locomotive Firemen v. Pinkston, 55 S. Ct. 1, 79 L. Ed. - (decided Nov. 5, 1934, affirming (C. C. A.) 69 F.(2d) 600), the Supreme Court held (following Thompson v. Thompson, 226 U. S. 551, 33 S. Ct. 129, 57 L. Ed. 347) that, where the apparent sum or amount in controversy presently existing was sufficient to establish jurisdiction, the latter was not to be destroyed by the contingency of a condition subsequent which might possibly in the future reduce the amount below the required jurisdictional amount. That principle seems equally applicable here.
+It may also be suggested for the defendant that even if the face amount of the policy slightly exceeded $3,000 the jurisdiction would not exist because the face amount of the policy is not necessarily the value in controversy at the present time in a suit to cancel an ordinary life policy where the insured is still living. And Judge McDowell so held in Mutual Life Ins. Co. v. Thompson, 27 F.(2d) 753 (D. C. W. D. Va.); but the correctness of this view has been denied in other circuits, N. Y. Life Ins. Co. v. Swift (C. C. A. 5) 38 F. (2d) 175; Jensen v. N. Y. Life Ins. Co. (C. C. A. 8) 50 F.(2d) 512; Mass. Prot. Ass’n v. Stephenson (D. C. Ky.) 5 F. Supp. 586; and is necessarily inconsistent with recent decisions of the Court of Appeals for this Fourth Circuit, Brown v. Pacific Mut. Life Ins. Co., 62 F.(2d) 711; Provident Mutual Life Ins. Co. v. Parsons, 70 F.(2d) 863; certiorari denied October 8, 1934, 55 S. Ct. 95, 79 L. Ed. -; Pacific Mut. Life Ins. Co. v. Parker, 71 F.(2d) 872, 874 (C. C. A. 4).
+Counsel may submit the appropriate order for the dismissal of the case, with costs to be paid by the plaintiff.
