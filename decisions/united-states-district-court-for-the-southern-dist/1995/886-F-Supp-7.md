@@ -1,0 +1,41 @@
+---
+court: "United States District Court for the Southern District of West Virginia"
+docket: "Crim. No. 2:95-00002"
+decided: "1995-05-09"
+citations: ["886 F. Supp. 7"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["UNITED STATES of America, Plaintiff, v. Christopher Jarrett BAILEY, Defendant."]
+source_url: "https://static.case.law/f-supp/886/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 7829399
+cites_cases: ["100 L.Ed. 891", "102 S.Ct. 2254", "28 U.S.C. § 2255", "350 F.2d 571", "351 U.S. 12", "440 F.2d 713", "456 U.S. 982", "466 U.S. 668", "477 F.2d 723", "498 F.2d 505", "545 F.2d 823", "618 F.2d 1021", "670 F.2d 1356", "72 L.Ed.2d 860", "724 F.2d 1128"]
+---
+
+# United States v. Bailey
+
+## Majority (HADEN, Chief Judge.)
+
+MEMORANDUM OPINION AND ORDER
+HADEN, Chief Judge.
+I.
+REQUESTED EXPERT FEES UNDER § 3006A(e)
+Defendant seeks, ex parte, provisions for appointment of an expert in the analysis of hair, fiber and blood to assist his counsel in preparation and presentation of his defense. He relies upon United States v. Patterson, 724 F.2d 1128 (5th Cir.1984) (per curiam) for the proposition that the Court must grant such motions “whenever a reasonable attorney under similar circumstances would engage the services of an expert in the analysis of hair, fiber, and blood for a client having independent financial means to pay for them.” Memorandum in support of ex parte motion at 3. The Patterson Court noted Judge Wisdom of that Court previously issued a concurring opinion concluding “‘authorization for defense services [is required] when the attorney makes a reasonable request in circumstances in which he would independently engage such services if his client had the financial means to support his defenses.’ ” Patterson, 724 F.2d at 1130, n. 2, citing United States v. Theriault, 440 F.2d 713, 717 (Wisdom J., concurring). The Court went on to note several Circuits had followed Judge Wisdom’s approach, i.e., United States v. Durant, 545 F.2d 823, 827 (2nd Cir.1976); Brinkley v. United States, 498 F.2d 505, 510 (8th Cir.1974); United States v. Bass, 477 F.2d 723, 725 (9th Cir.1973).
+In Patterson, however, the Fifth Circuit did not adopt Judge Wisdom’s approach expressly. Rather, the Court implied the test is as follows: “[wjhere the government’s case rests heavily on a theory most competently addressed by expert testimony, an indigent defendant must be afforded the opportunity to prepare and present his defense to such a theory with the assistance of his own expert pursuant to section 3006A(e).” (emphasis added) Id. at 1130.
+This Circuit has not had occasion to analyze this area of the law as deeply as other Circuits but instructive caselaw, although uncited by the Defendant, does exist in this Circuit. The Court of Appeals made the following analysis in Williams v. Martin, 618 F.2d 1021, 1026 (4th Cir.1980):
+“Jacobs v. United States, 350 F.2d 571 (4th Cir.1965), vacated a judgment denying a motion for collateral relief brought under 28 U.S.C. § 2255. Relying on Griffin v. Illinois, 351 U.S. 12, 76 S.Ct. 585, 100 L.Ed. 891 (1956), we recognized that the obligation of the government to provide an indigent defendant with the assistance of an expert was firmly based upon the equal protection clause. In Jacobs we held that the obligation arises when a substantial question exists over an issue requiring expert testimony for its resolution and the defendant’s position cannot be fully developed without professional assistance. 350 F.2d at 573. The determination of the defendant’s need is committed to the sound discretion of the trial judge.” (emphasis added).
+The foregoing appears to govern a determination of whether an expert should be appointed in a § 2255 context.
+In United States v. Fince, 670 F.2d 1356, 1357 (4th Cir.1982), cert. denied, 456 U.S. 982, 102 S.Ct. 2254, 72 L.Ed.2d 860 (1982) the Court of Appeals was faced squarely with the issue of whether it was error for a district court to deny expert services of a chemist to a defendant who requested such services in order to determine whether cocaine seized was the “particular type of cocaine that is a forbidden substance.” Without addressing the standards developed in other Circuits or any caselaw, the Court of Appeals made the following statement: “Under [18 U.S.C. 3006A(e)], the appellant’s request for an expert requires that she make at least a minimal showing that the contemplated use of the chemist’s services could buttress a viable defense.” (emphasis added). Id.
+It appears the standard outlined in Fince, supra, is controlling in this Circuit.
+II.
+STRICKLAND AND REASONABLENESS
+In Strickland v. Washington, 466 U.S. 668, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984) the Supreme Court addressed what constitutes reasonable conduct of a lawyer for ineffective assistance of counsel purposes. The Court made the following observation concerning a lawyer’s duty to investigate certain lines of inquiry: “counsel has a duty to make reasonable investigations or to make a reasonable decision that makes particular investigations unnecessary.” Id., 466 U.S. at 691, 104 S.Ct. at 2066. Defendant here extrapolates from Strickland that if counsel is prohibited from making an investigation he deems reasonable pursuant to his professional judgment, such a prohibition would be tantamount to a denial of Defendant’s right to effective assistance of counsel.
+It does not appear the Fourth Circuit employs the “reasonableness” test articulated by Judge Wisdom in Theriault, supra. Even if it did, it is unclear whether that test is equivalent to the test of reasonableness for ineffective assistance of counsel under Strickland, although the two tests are similar. In this Circuit the test under Fince, supra, controls and is as follows: has the defendant made “at least a minimal showing that the contemplated use of the [expert’s] services could buttress a viable defense.”
+III.
+CONCLUSION
+Applying the foregoing to the instant situation, the Court must determine whether the expert sought could buttress a viable defense. As stated in his motion, Defendant believes the Government will rely “heavily” on the testimony of its experts in (1) forensic serology and (2) hairs and fibers analysis. Patterson, supra at 1130. Counsel assert they are unable to analyze the reports of the Government’s experts because they lack any expertise in those areas. They assert they have sought evaluation of the Government expert’s reports by a forensic pathologist, who advised them the meaning of such reports “is best addressed by an expert in the analysis of hair, fiber and blood, as opposed to a forensic pathologist.” Thus, Defendant reasons he needs the expert services for three major purposes: (1) to review the work of the government experts to determine if proper methodology was utilized by those experts, (2) to explain the reports and methodology to counsel, and (3) potentially for the presentation of expert testimony at trial.
+The difficulty is the expert services sought may prove utterly fruitless in the presentation of a viable defense for the defendant. Thus, the Fifth Circuit’s standard of evaluating these types of requests based upon how heavily the Government appears to rely on its experts seems an appropriate standard. Patterson, supra at 1130. Defendant argues the Government intends to rely heavily on the expert services in question because its ease is based upon circumstantial evidence and the blood, hair and fiber evidence well may be pivotal to the Government’s case.
+The Court concludes the Defendant has met the burden imposed under either Patterson, or Fince, and accordingly GRANTS Defendant’s ex parte motion for appointment of an expert in the analysis of hair, fiber and blood to assist his counsel in preparation and presentation of his defense.
+The Clerk is directed to send a copy of this Order to counsel of record, the United States Marshal for the Southern District of West Virginia and the Probation Office of this Court.
+. In Jacobs, 350 F.2d at 573, the Court of Appeals used sweeping language, stating "discrimination between indigents and those who possess the means to protect their rights [would not be tolerated.]”
