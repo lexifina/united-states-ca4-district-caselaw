@@ -1,0 +1,31 @@
+---
+court: "United States District Court for the Middle District of North Carolina"
+docket: "Civ. No. 112"
+decided: "1953-11-04"
+citations: ["116 F. Supp. 1"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHEW v. UNITED STATES."]
+source_url: "https://static.case.law/f-supp/116/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4238245
+cites_cases: ["110 F.Supp. 906", "28 U.S.C.A. § 1346", "28 U.S.C.A. § 2674", "28 U.S.C.A. §§ 2671-2680"]
+---
+
+# Shew v. United States
+
+## Majority (WARLICK, District Judge.)
+
+WARLICK, District Judge.
+Plaintiff, Richard Shew, has instituted this action against the United States of America for damages for personal injuries allegedly suffered and sustained by him while confined in the United States penitentiary at Atlanta, Georgia, in which action he invokes the jurisdiction of this court under the provisions of the Federal Tort Claims Act, 28 U.S.C.A. § 1346(b), and 28 U.S.C.A. §§ 2671-2680.
+Among other things plaintiff alleges his incarceration on account of a conviction and sentence resulting therefrom and sets out that while confined he was assigned to work in and around the various piggeries maintained by the institution as a method of employment for those confined and a possible means of making a profit. He bottoms his action on the alleged negligence of the defendant through its employees at said institution, in alleging among other things, that he, along with others, was engaged in transporting and delivering hog food to the various lots where the pigs were kept, and that he was riding on top of a load of such food contained in 100 lb. bags, placed on a truck. That for some reason unknown to him, the truck, from a mechanical defect, stopped on the roadway. That the employees of the government in charge of the truck and some of the prisoners began work on the motor and that plaintiff, in getting down from the top of the load of sacked feed, caught his foot in a wire and was thrown violently to the ground, breaking his left leg and otherwise injuring himself and suffered great pain in both body and mind. It is alleged that the truck was what is known in the trade as a panel truck and that that portion of the panel immediately to the rear of the cab had not been removed, though the side and rear panels had been taken off, and on this unmoved part certain bailing wire had been left which had originally been placed there for the purpose of tying the panel joints together when needed. His treatment is alleged and permanent injury resulting proximately therefrom is set out with damage claimed in the sum of $10,000.
+The United States denied certain of the material allegations, makes admission of others, and asks that no damage be recovered of it.
+The government further alleges in its answer that the complaint fails to set up a claim upon which relief can be granted and moves therefore to dismiss the action.
+I will take up this motion to dismiss the action as first of the defenses interposed, as it squarely presents the issue of whether or not a prisoner confined in a federal penal institution may avail himself of the Federal Tort Claims Act, and sue the government of the United States for damages allegedly sustained as is set out herein. The applicable provisions of the Federal Tort Claims Act to this particular action are as follows:
+“ * * * the district courts * * * shall have exclusive jurisdiction of civil actions on claims against the United States, for money damages * * * for * * * personal injury or death caused by the negligent or wrongful act or omission of any employee of the Government while acting within the scope of his office or employment, under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred. 28 U.S.C.A. § 1346(b).
+“The United States shall be liable, respecting the provisions of this title relating to tort claims, in the same manner and to the same extent as a private individual under like circumstances, * * *28 U.S.C.A. § 2674.
+This whole question seems to have been very ably and elaborately discussed by Judge Barksdale in a recent decision handed down on March 30, 1953, and reported in Sigmon v. United States, D.C., 110 F.Supp. 906. In that particular case every conceivable angle of the facts and the law are clearly discussed and it certainly would be repetitious for me to recite again the findings that he makes, and the conclusions he arrives at in order to pass upon the motion to dismiss. Similar cases involving like points have been determined in other jurisdictions as cited therein, and I therefore am of the opinion and so hold that this action cannot be maintained by the plaintiff against the United States of America and that the motion of the defendant for dismissal of the action is good and should be allowed. Sigmon v. United States, D.C., 110 F.Supp. 906.
+In order that the points involved may be further determined and judgment rendered, I conclude from the evidence offered in the case that the defendant through its employees, while acting in the scope of their office or employment, as is set out in the act were not negligent and that such is found as a fact. It would appear that the plaintiff while riding on top of the load of sacked pig food, of his own motion, decided to get down from his position on the stalled truck, to the ground, and that in so doing he entangled his right foot into some of the bags on which he was standing and having so entangled his foot, that he was, through no fault of the defendant, pitched from the vehicle to the ground. Nothing appears from the evidence to the effect that the government was in any wise lacking in its duty to the plaintiff as one among those entrusted to its care for the violation of one of its laws and that all instructions, rules, and regulations having been explained to the plaintiff that the injuries suffered and sustained by him were not due to the negligence of the defendant.
+Therefore, I find that the plaintiff is not entitled to recover of the defendant any sum whatsoever, for the alleged injury.
+Counsel will prepare judgment.
