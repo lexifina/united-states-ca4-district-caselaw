@@ -1,0 +1,30 @@
+---
+court: "United States District Court for the Eastern District of Virginia"
+docket: "Civ. A. No. 6431"
+decided: "1969-05-21"
+citations: ["307 F. Supp. 5"]
+reporter: "f-supp"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EVANS PRODUCTS COMPANY, Plaintiff, v. M/S NARDO, etc., et al., Defendant and Third-Party Plaintiff, v. SOUTHERN STEVEDORING CORPORATION, Third-Party Defendant."]
+source_url: "https://static.case.law/f-supp/307/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3071176
+cites_cases: ["306 F.2d 426", "310 F.2d 206", "316 F.2d 163"]
+---
+
+# Evans Products Co. v. M/S Nardo
+
+## Majority (KELLAM, District Judge.)
+
+MEMORANDUM ORDER
+KELLAM, District Judge.
+In December, 1966, at Pitea, Sweden, defendant A/S TURID & SKIBS, A/S NEA, owner and operator of M/S NAR-DO (NARDO) issued a bill of lading #3 and accepted for delivery to plaintiff at Norfolk, Virginia, 932 skids of Swedish hardboard. Said cargo was stored in the lower holds of all five hatches. Other cargo was loaded on said vessel, which was discharged at New York and Newark, prior to arrival at Norfolk for the discharge of the cargo for plaintiff.
+Upon the arrival of the cargo at Norfolk, it was found to be in a damaged condition. The hardboard had been chafed, corners chipped, bands binding the cartons were broken, some of the shoring had collapsed, and some of the board in the cartons had “skidded off to one side.” Damage was in all holds of the vessel. At time of delivery to Lambert’s Point Docks, the Docks’ agent noted the condition of the cargo on the receipt given the vessel, viz., “A quantity of crates. Covers torn. Contents exposed. One or more bands broken. Corners chipped. Sling cuts. Condition of contents unknown.” A partial survey of the damage at dockside was made by General Adjustment Bureau. It reported 277 crates had one or more bands broken, 110 crates had end covers off, 10 crates had all bands off and 5 crates had contents astray.
+The cargo was loaded into railway cars without further damage and consigned to American Gyro-Tex Company in Illinois. There, under supervision of a marine surveyor, it was inspected and sorted.
+A copy of the ship’s log is an exhibit in the case. The log recorded that at New York “damage occurred .to the cargo because of careless handling by the stevedores.” A similar entry was made in the log during unloading of cargo at Newark. The log entry recorded that damage to the Norfolk cargo had been sustained at Newark by use of trucks in unloading the Newark cargo. Likewise, the captain testified there was damage to the cargo, and that it was readily observed. Mr. Longmire, a checker for Lambert’s Point Docks described the damage as “one of the worst shipments that’s ever been on the dock in .that type of shipment. There wasn’t hardly a crate in it there wasn’t a band broken.” The covers were torn and the corners of the board chipped. The stevedoring boss said “you could see where the previous port had discharged on top of Norfolk cargo, dragging .their cargo * * * and tearing our cargo all to pieces, bands and so on,” and the cargo “was chafed where the previous port had discharged against our cargo.” The stevedore foreman called the damage to the attention of the first mate of the ship and .the mate said he “knew all about it * * * that the damage had been done in the previous port.”
+In Illinois the damage was surveyed. Because there “was tremendous damage to the entire shipment” it was necessary to “sort each crate in order to pull out the damaged pieces.” Of the 65,240 sheets in the shipment, 18,215 were sufficiently damaged for rejection. Bids were solicited for the damaged board. The fair market value of the good board was $63.50 per thousand, but the price received for the damaged board was $30.00 per thousand. The loss of the damaged board was $19,526.48. The cost of “sorting the shipment was $4,-175.36, for a total loss of $23,701.84.”
+The evidence is clear that the damage was caused by the vessel and not while in transit by railroad. There is no dispute of these facts.
+The vessel seeks to recover of the stevedore for all or some part of the damage sustained. In order to do so, it must establish the fault of the stevedore. There is evidence of damage to the boards by “gouge” marks in .the plywood caused by the cables of the slings used in loading and unloading on the vessel. However, the cartons were loaded by slings, and there is no evidence that the “gouge” marks were caused by the slings in unloading as opposed to the loading. Evidence establishes much of the damage was due to the manner of storage of the cargo in the ship and by the action in off-loading cargo at New York and Newark. The vessel has not carried its burden of establishing damage due to the fault of the stevedore.
+The vessel received the cargo in good order and discharged it in bad order. Without more — and there is no evidence to the contrary — liability is established. Compagnie De Navigation Fraissinet & Cyprien Fabre S.A. v. Mondial United Corp. C.A., 316 F.2d 163, 169 (5th Cir. 1963); States Marine Corp. of Del. v. Producers Co-op. Packing Co., 310 F.2d 206, 212 (9th Cir. 1962). This makes out a prima facie case. Lekas & Drivas, Inc. v. Goulandris, 306 F.2d 426, 429 (2d Cir. 1962). No additional damage occurred after the cargo arrived at Norfolk. The damage is undisputed. While the vessel asserts it was not invited to the survey of the damage, it knew of the damage; the captain had entered it in his log and the first mate told the stevedore he knew about the damage. He had an obligation to take some affirmative action. In any event, there is no evidence the survey and estimate of damage is not correct and equitable.
+It is therefore ordered that the plaintiff recover of NARDO the sum of $23,-701.84, with interest from January 26, 1967, and its costs, and that NARDO is not entitled to any recovery over against Southern Stevedoring Corporation. The Clerk is directed to enter judgment in accordance with this opinion.
